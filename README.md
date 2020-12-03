@@ -1,5 +1,5 @@
 # Palindromic-equation-solution-practice
-Practice solution and it's solved equation
+Practice algorithm and it's solution code.
 
 
 
