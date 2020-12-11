@@ -1,5 +1,5 @@
 # Palindromic-equation-solution-practice
-Practice algorithm and a workable solution in Java
+Practice algorithm and my workable solution in Java
 
 
 
